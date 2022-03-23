@@ -2,10 +2,10 @@
 
  ## Olá, Sou Alecio júnior <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=alecio-junior" alt="scillapinheiro" />
 
-- 🔭 Atualmente estudando Desenvolvimento FullStack na Gama Academy.
-- 🔭 Cursando Analise e Desenvolvimento de sistemas na Anhanguera.
+- 🔭 Atualmente estudando desenvolvimento Full stack na Digital House.
+- 🔭 Formado em Analise e desenvolvimento de sistemas.
 - 🌱 Programando em Javascript, node js.
-- ☄ Atualmente aprendendo React, Php, Python, TypeScript.
+- ☄ Atualmente aprendendo React, Php, Python, TypeScript,Ruby.
 - 🔭 Conhecimento em Vtex io principalmente pra o front end.
 
 ##
