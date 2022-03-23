@@ -18,12 +18,6 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 
-
-##
-### Aprendendo:
-![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=007ACC)
-![React](https://img.shields.io/badge/ReactJS-323330?style=for-the-badge&logo=react&logoColor=61DBFB)
-
 ##
 ### 📊 Estatisticas:
   
