@@ -1,5 +1,5 @@
 
-### Oie devs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=alecio-junior" alt="scillapinheiro" />
+### Ola  <img src="https://komarev.com/ghpvc/?username=alecio-junior" alt="alecio" />
 
 tenho uma grande vontade de desenvolver sistemas que de alguma forma beneficie as pessoas, independente de quem elas sejam. Esses são os meus pilares que guiaram boa parte das minhas escolhas acadêmicas e profissionais, e que hoje me motivam a enfrentar desafios e buscar por oportunidades que me permitam promover boas soluções.
 
