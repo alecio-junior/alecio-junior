@@ -1,6 +1,31 @@
 
 ### Ola  <img src="https://komarev.com/ghpvc/?username=alecio-junior" alt="alecio" />
 
+Olá! Meu nome é Alecio Júnior e sou o fundador/CEO da Me Eduka.
+
+Sobre Mim
+Sou apaixonado por educação e por ajudar jovens a descobrir seu potencial e alcançar seus objetivos acadêmicos e profissionais. Com uma formação em Analise e desenvolvimento de sistema com pós em Engenharia de software, sempre acreditei no poder transformador da educação e estou comprometido em tornar o processo de escolha acadêmica mais acessível e orientado.
+
+Meu Trabalho na Me Eduka
+Na Me Eduka, desenvolvemos soluções educacionais inovadoras para orientar os estudantes em sua jornada de aprendizado e carreira. Meu foco principal tem sido o desenvolvimento de ferramentas e plataformas que simplificam o processo de tomada de decisão e oferecem suporte personalizado aos jovens.
+
+Projetos Destacados
+Gerador de Currículo
+Uma das minhas realizações mais recentes foi o desenvolvimento de um gerador de currículo simples utilizando JavaScript. Esta ferramenta tem como objetivo ajudar os estudantes a criar currículos profissionais de forma rápida e eficiente.
+
+Eu Calouro (Em Planejamento)
+Estamos atualmente planejando o lançamento da plataforma "Eu Calouro", uma plataforma de mentoria educacional que irá conectar estudantes com mentores experientes. Estou muito animado com o potencial dessa iniciativa para fornecer suporte e orientação valiosos aos jovens estudantes.
+
+Outros Projetos
+Além disso, estou constantemente trabalhando no desenvolvimento de novas ferramentas e plataformas para expandir os serviços oferecidos pela Me Eduka e atender às necessidades em constante evolução dos nossos clientes.
+
+Entre em Contato
+Se você tiver alguma pergunta sobre mim, sobre a Me Eduka ou sobre nossos projetos, não hesite em entrar em contato. Estou sempre aberto a novas ideias e oportunidades de colaboração.
+
+Obrigado por visitar nosso repositório!
+
+Para mais informações sobre a Me Eduka, visite nosso site: www.me-eduka.com
+
 tenho uma grande vontade de desenvolver sistemas que de alguma forma beneficie as pessoas, independente de quem elas sejam. Esses são os meus pilares que guiaram boa parte das minhas escolhas acadêmicas e profissionais, e que hoje me motivam a enfrentar desafios e buscar por oportunidades que me permitam promover boas soluções.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
