@@ -1,32 +1,32 @@
 
-### Ola  <img src="https://komarev.com/ghpvc/?username=alecio-junior" alt="alecio" />
+### Ola ! <img src="https://komarev.com/ghpvc/?username=alecio-junior" alt="alecio" />
 
-Olá! Meu nome é Alecio Júnior e sou o fundador/CEO da Me Eduka.
+Meu nome é Alecio Júnior e sou o fundador/CEO da Me Eduka. </br>
 
-Sobre Mim
-Sou apaixonado por educação e por ajudar jovens a descobrir seu potencial e alcançar seus objetivos acadêmicos e profissionais. Com uma formação em Analise e desenvolvimento de sistema com pós em Engenharia de software, sempre acreditei no poder transformador da educação e estou comprometido em tornar o processo de escolha acadêmica mais acessível e orientado.
+Sobre Mim: </br>
+Sou apaixonado por educação e por ajudar jovens a descobrir seu potencial e alcançar seus objetivos acadêmicos e profissionais. Com uma formação em Analise e desenvolvimento de sistema com pós em Engenharia de software, sempre acreditei no poder transformador da educação e estou comprometido em tornar o processo de escolha acadêmica mais acessível e orientado.</br>
 
-Meu Trabalho na Me Eduka
-Na Me Eduka, desenvolvemos soluções educacionais inovadoras para orientar os estudantes em sua jornada de aprendizado e carreira. Meu foco principal tem sido o desenvolvimento de ferramentas e plataformas que simplificam o processo de tomada de decisão e oferecem suporte personalizado aos jovens.
+Meu Trabalho na Me Eduka:</br>
+Na Me Eduka, desenvolvemos soluções educacionais inovadoras para orientar os estudantes em sua jornada de aprendizado e carreira. Meu foco principal tem sido o desenvolvimento de ferramentas e plataformas que simplificam o processo de tomada de decisão e oferecem suporte personalizado aos jovens.</br>
 
-Projetos Destacados
-Gerador de Currículo
-Uma das minhas realizações mais recentes foi o desenvolvimento de um gerador de currículo simples utilizando JavaScript. Esta ferramenta tem como objetivo ajudar os estudantes a criar currículos profissionais de forma rápida e eficiente.
+Projetos Destacados:</br>
+Gerador de Currículo:</br>
+Uma das minhas realizações mais recentes foi o desenvolvimento de um gerador de currículo simples utilizando JavaScript. Esta ferramenta tem como objetivo ajudar os estudantes a criar currículos profissionais de forma rápida e eficiente.</br>
 
-Eu Calouro (Em Planejamento)
-Estamos atualmente planejando o lançamento da plataforma "Eu Calouro", uma plataforma de mentoria educacional que irá conectar estudantes com mentores experientes. Estou muito animado com o potencial dessa iniciativa para fornecer suporte e orientação valiosos aos jovens estudantes.
+Eu Calouro (Em Planejamento)</br>
+Estamos atualmente planejando o lançamento da plataforma "Eu Calouro", uma plataforma de mentoria educacional que irá conectar estudantes com mentores experientes. Estou muito animado com o potencial dessa iniciativa para fornecer suporte e orientação valiosos aos jovens estudantes.</br>
 
-Outros Projetos
-Além disso, estou constantemente trabalhando no desenvolvimento de novas ferramentas e plataformas para expandir os serviços oferecidos pela Me Eduka e atender às necessidades em constante evolução dos nossos clientes.
+Outros Projetos</br>
+Além disso, estou constantemente trabalhando no desenvolvimento de novas ferramentas e plataformas para expandir os serviços oferecidos pela Me Eduka e atender às necessidades em constante evolução dos nossos clientes.</br>
 
-Entre em Contato
-Se você tiver alguma pergunta sobre mim, sobre a Me Eduka ou sobre nossos projetos, não hesite em entrar em contato. Estou sempre aberto a novas ideias e oportunidades de colaboração.
+Entre em Contato</br>
+Se você tiver alguma pergunta sobre mim, sobre a Me Eduka ou sobre nossos projetos, não hesite em entrar em contato. Estou sempre aberto a novas ideias e oportunidades de colaboração.</br>
 
-Obrigado por visitar nosso repositório!
+Obrigado por visitar nosso repositório!</br>
 
-Para mais informações sobre a Me Eduka, visite nosso site: www.me-eduka.com
+Para mais informações sobre a Me Eduka, visite nosso site: www.meeduka.com </br>
 
-tenho uma grande vontade de desenvolver sistemas que de alguma forma beneficie as pessoas, independente de quem elas sejam. Esses são os meus pilares que guiaram boa parte das minhas escolhas acadêmicas e profissionais, e que hoje me motivam a enfrentar desafios e buscar por oportunidades que me permitam promover boas soluções.
+tenho uma grande vontade de desenvolver sistemas que de alguma forma beneficie as pessoas, independente de quem elas sejam. Esses são os meus pilares que guiaram boa parte das minhas escolhas acadêmicas e profissionais, e que hoje me motivam a enfrentar desafios e buscar por oportunidades que me permitam promover boas soluções.</br>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
